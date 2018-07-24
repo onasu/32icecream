@@ -3,6 +3,7 @@
 
 おナスとピエトロの調教所
 
+<<<<<<< HEAD
 ## カリキュラム
 ### まずは基礎を固めよう
 - [ ] [HTML基礎文法入門 | ドットインストール](https://dotinstall.com/lessons/basic_html_tags)
@@ -26,3 +27,19 @@
 
 ### 実物を作っていこう！
 - デザインしたものをコードで実装してみる(その時にまた詳しく決めます)
+=======
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+ <meta charaset="utf-8">
+ <title>ドットインストール</title>
+ <meta neme="description" content=”プログラミング学習サイトのドットインストールです。”>
+
+</head>
+<body>
+ 
+ <img src="img/logo.png">
+ <h1>ドットインストール</h1>
+ <p>プログラミング学習サイトです</p>
+</html>
+>>>>>>> 保存
