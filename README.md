@@ -3,7 +3,6 @@
 
 おナスとピエトロの調教所
 
-<<<<<<< HEAD
 ## カリキュラム
 ### まずは基礎を固めよう
 - [ ] [HTML基礎文法入門 | ドットインストール](https://dotinstall.com/lessons/basic_html_tags)
