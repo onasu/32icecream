@@ -5,8 +5,8 @@
 
 ## カリキュラム
 ### まずは基礎を固めよう
-- [ ] [HTML基礎文法入門 | ドットインストール](https://dotinstall.com/lessons/basic_html_tags)
-- [ ] [CSS基礎文法入門 | ドットインストール](https://dotinstall.com/lessons/basic_css_styles)
+- [x] [HTML基礎文法入門 | ドットインストール](https://dotinstall.com/lessons/basic_html_tags)
+- [x] [CSS基礎文法入門 | ドットインストール](https://dotinstall.com/lessons/basic_css_styles)
 - [ ] [CSSレイアウト入門 | ドットインストール](https://dotinstall.com/lessons/basic_css_layout)
 - [ ] [HTML入門 | ドットインストール](https://dotinstall.com/lessons/basic_html_v4)
 - [ ] [CSS入門 | ドットインストール](https://dotinstall.com/lessons/basic_css_v4)
