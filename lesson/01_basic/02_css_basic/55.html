@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+.box1{background-color: orange;width: 200px;height: 200px;margin-bottom: 20px}
+.box2{background-color: skyblue;width: 50%;height: 50%;border: blue solid 3px;padding-top: 20px;padding-left: 20px}
+.box3{background-color: red;margin-top: 20px}
+</style>
+</head>
+<body>
+    <h1>marginは相殺されちゃう</h1>
+    <h2>垂直方向だと小さい方が消されちゃう</h2>
+    <div class="box1">box1<div class="box2">box2</div></div>
+    <div class="box3">box3</div>
+</body>
+</html>

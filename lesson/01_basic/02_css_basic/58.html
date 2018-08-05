@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    .mini{width: 30px;height: 30px;background-color: pink}
+    .kaori{width: 100px;height: 100px}
+    .box1{background-color: orange}
+    .box2{background-color: skyblue;position:static;}
+    .box-b{position: absolute;top: 30px;left: 30px}
+    .box3{background-color: red}
+    </style>
+</head>
+<body>
+       
+        <div class="box1 kaori">親1</div>
+        <div class="box2 kaori">親2
+        <div class="box-a mini">子1</div>
+        <div class="box-b mini">子2</div>
+        <div class="box-c mini">子3</div>
+        </div>
+        <div class="box3 kaori">親3</div>
+        
+        <p>要素をある位置からずっと付随させたい　アブソリュート</p>
+        <p>親要素がスタティックなら上からの位置</p>
+        <p>親要素がリラティブなら親からの位置</p>
+        <p>リラティブな親をもつと子供はそこにずっと合わせないといけないからちょっと大変ね</p>
+
+</body>
+</html>

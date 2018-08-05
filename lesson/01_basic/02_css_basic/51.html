@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .box1{background-color: orange;width: 200px;height: 200px}
+        .box2{background-color: skyblue;width: 50%;height: 50%;overflow: hidden}
+        .box3{background-color:tomato;width: 200px;height: 200px}
+        .box4{background-color: olivedrab;width: 50%;height: 50%;overflow: scroll}
+
+    </style>
+</head>
+<body>
+    <h1>divは親要素の幅いっぱいになるよ</h1>
+    <div class="box1">box1<div class="box2">box2 コンテンツがあふれちゃう　やだあふれちゃう　あふれちゃう　あふれちゃう　あふれちゃう</div></div>
+    <div class="box3">box3<div class="box4">bov4 コンテンツをスクロール　コンテンツをスクロール　コンテンツをスクロール</div></div>
+    <h2>％は親要素に対する割合</h2>
+</body>
+</html>
